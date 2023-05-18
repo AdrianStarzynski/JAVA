@@ -6,6 +6,5 @@ public class CustomScaner {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
         System.out.println("Cześć " + name + "!");
-
     }
 }
