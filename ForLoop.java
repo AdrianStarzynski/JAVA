@@ -1,6 +1,6 @@
 public class ForLoop {
     public static void main(String[] args) {
-        int number = 100;
+
 
         /*for (int i =0; i <100; i=i+2)
             System.out.println(i);
@@ -10,7 +10,7 @@ public class ForLoop {
                 System.out.println(i);
                 */
 
-        for (int sth=0; sth <300; sth++) {
+        for (int sth=0; sth <300; sth++ ) {
             System.out.println("Bede robil prace domowe");
 
         }
