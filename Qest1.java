@@ -14,6 +14,7 @@ public class Qest1 {
         int temp = numbers[i];
         numbers[i] = numbers[numbers.length-1-i];
         numbers[numbers.length-1-i] = temp;
+            System.out.println("Inerakcja numer" + i);
         }
         for (int i=0;i<numbers.length;i++)
         {
