@@ -6,7 +6,7 @@ public class Calcultor {
         System.out.println("Proszę, podaj pierwszą liczbę:");
         int firstNumber = scanner.nextInt();
         System.out.println("Proszę, podaj drugą liczbę:");
-        int secondNumber = scanner.nextInt();q
+        int secondNumber = scanner.nextInt();
 
         int addition = firstNumber + secondNumber;
         int subtraction = firstNumber - secondNumber;
