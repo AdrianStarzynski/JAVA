@@ -2,6 +2,7 @@
 1. Wypisz liczby z zakresu 1-100 podzielne przez 3
 2. Oswroc elementy tablicy  [1,3,5,7,0] -> [0,7,5,3,1]
  */
+
 public class Task1 {
     public static void main(String[] args) {
         /*for (int i = 0; i <= 100; i++)

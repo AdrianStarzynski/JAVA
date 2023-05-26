@@ -5,6 +5,7 @@ Przejdz przez Studentów w tablicy  i wywolaj wszystkie 4 metody.
 public class Task2 {
     public static void main(String[] args) {
 
+
         Student first = new Student();
         first.imie = "Krystyna";
         first.nazwisko = "Nowak";

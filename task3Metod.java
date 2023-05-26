@@ -15,7 +15,6 @@ public class task3Metod {
     public int mod (int firstNumber, int secondNumber) {
         return firstNumber%secondNumber;
     }
-
 }
 
 

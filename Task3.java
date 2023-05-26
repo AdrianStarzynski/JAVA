@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Task3 {
-
         public static void main(String[] args) {
             Metody metody = new Metody();
             Scanner scanner = new Scanner(System.in);
@@ -23,5 +22,4 @@ public class Task3 {
             System.out.println("Wynik dzielenia " + (firstNumber) +"/"+ (secondNumber) +"= "  + division) ;
             System.out.println("Wynik modulo " + (firstNumber) + (secondNumber) +"= "  + mod) ;
         }
-
 }
