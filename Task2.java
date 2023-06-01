@@ -5,6 +5,9 @@ Przejdz przez Studentów w tablicy  i wywolaj wszystkie 4 metody.
 public class Task2 {
     public static void main(String[] args) {
 
+        String uczelnia = Student.nazwaUczelni;
+        Student.infoUczelnia();
+
 
         Student first = new Student();
         first.imie = "Krystyna";
@@ -12,6 +15,7 @@ public class Task2 {
         first.nick = "KrysiaN95";
         first.email = "KrysiaN95@gmail.com";
         first.numerIndeksu = 9521;
+
 
         Student second = new Student();
         second.imie = "Beata";
